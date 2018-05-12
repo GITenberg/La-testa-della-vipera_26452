@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '31126'
     url: http://www.gutenberg.org/2009/agents/31126
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26452#La-testa-della-vipera
 gutenberg_bookshelf: IT Romanzi
 gutenberg_issued: '2008-08-28'
 gutenberg_type: Text
